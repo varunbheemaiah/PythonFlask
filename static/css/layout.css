@@ -1,0 +1,12 @@
+body
+{
+    font-family: Segoe UI;
+    font-size: 50px;
+    background-color: grey;
+}
+div
+{
+    margin: auto;
+    align-self: center;
+    align-items: center;
+}
